@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class studyEnum {
+public class StudyEnum {
 
     public static enum CODE {
         // int형 3개 String형 1개 boolean형 1개짜리 데이터 타입을 만듬.
